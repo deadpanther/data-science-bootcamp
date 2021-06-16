@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: Neel Shah
+NETID: 12218886
+Favorite book and author: Rich Dad, Poor Dad by Robert Kiyosaki
